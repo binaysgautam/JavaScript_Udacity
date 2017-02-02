@@ -1,2 +1,2 @@
 # JavaScript_Udemy
-Java Script Course 
+This is for Java Script course from Udemy
